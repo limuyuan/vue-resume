@@ -1,21 +1,17 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
+    "name": "Morris(Mu-Yuan) Li",
+    "job": "Sr. QA Engineer",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "aboutMe": "Morris is a Senior QA Engineer with 8 years of experience in mobile and web testing, particularly in banking, insurance, and credit card systems.\n\nHe is skilled in automation and performance testing, and is currently exploring AI applications to improve test diagnostics and efficiency. He has filed one US patent in this area.\n\nMorris has worked on client projects across Europe, Japan, and China. He is fluent in English and uses it confidently as a working language in international teams.\n\nIn addition to QA, Morris has hands-on experience in full-stack development, which has strengthened his understanding of system structure and improved his debugging skills.\n\nHe also has a background in security-related work. He earned an excellence award in a company CTF competition and was previously active in online security forums, where he analyzed logs and monitored system behavior to identify and remove malware.\n\nMorris holds the ISTQB Advanced Level certifications (Test Manager, Test Analyst, Technical Test Analyst) and FLMI Level 1 certification in insurance fundamentals.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/billgates"
+        "name": "GitHub",
+        "url": "https://github.com/limuyuan"
       },
       {
-        "name": "linkedin",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/williamhgates"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
       }
     ]
   },
@@ -49,28 +45,7 @@
   ],
   "skill": [
     "C#",
-    "JavaScript",
-    "Angular",
-    "Vue",
-    "CSS",
-    "Tailwindcss",
-    "Dart",
-    "PHP",
-    "TypeScript",
-    "Laravel",
-    "Flutter",
-    "AngularJS",
-    "Bootstrap",
-    "NodeJS",
-    "HTML",
-    "jQuery",
-    "Microsoft SQL",
-    "VS Code",
-    "IIS",
-    "Git",
-    "Windows",
-    "Internet Explorer",
-    "Insomnia"
+ "Java", "Selenium", "Appium"
   ],
   "language": [
     {
